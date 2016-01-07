@@ -20,3 +20,7 @@
   url('/assets/website/fonts/Tesco/tescobd.ttf') format('truetype'),
   url('/assets/website/fonts/Tesco/tescobd.svg#tescobold') format('svg');
 }
+
+@font-face {
+  font-family: 'Tesco';
+}
