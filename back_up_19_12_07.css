@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Tesco';
+  font-weight: 300;
+  font-style: normal;
+  src: url('/assets/website/fonts/Tesco/tescorg.eot');
+  src: local('☺︎'),
+  url('/assets/website/fonts/Tesco/tescorg.eot?#iefix') format('embedded-opentype'),
+  url('/assets/website/fonts/Tesco/tescorg.woff') format('woff'),
+  url('/assets/website/fonts/Tesco/tescorg.ttf') format('truetype'),
+  url('/assets/website/fonts/Tesco/tescorg.svg#tescoregular') format('svg');
+}
+
+@font-face {
+  font-family: 'Tesco';
+  font-weight: 700;
+  src: url('/assets/website/fonts/Tesco/tescobd.eot');
+  src: local('☺︎'),
+  url('/assets/website/fonts/Tesco/tescobd.eot?#iefix') format('embedded-opentype'),
+  url('/assets/website/fonts/Tesco/tescobd.woff') format('woff'),
+  url('/assets/website/fonts/Tesco/tescobd.ttf') format('truetype'),
+  url('/assets/website/fonts/Tesco/tescobd.svg#tescobold') format('svg');
+}
