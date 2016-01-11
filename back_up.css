@@ -1,16 +1,8 @@
-#div {
-  background: red;
-}
 
 @font-face {
   font-family: 'Tesco';
   font-weight: 300;
-  font-style: normal;
-  src: url('/assets/website/fonts/Tesco/tescorg.eot');
-  src: local('☺︎'),
-  url('/assets/website/fonts/Tesco/tescorg.eot?#iefix') format('embedded-opentype'),
-  url('/assets/website/fonts/Tesco/tescorg.woff') format('woff'),
-  url('/assets/website/fonts/Tesco/tescorg.ttf') format('truetype'),
+  aeeded,emlrl('/assets/website/fonts/Tesco/tescorg.ttf') format('truetype'),
   url('/assets/website/fonts/Tesco/tescorg.svg#tescoregular') format('svg');
 }
 
